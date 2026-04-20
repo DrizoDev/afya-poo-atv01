@@ -1,5 +1,6 @@
 # afya-poo-atv01
-Alunos: Adriano Moura e Luna Campolina
+Alunos: Adriano Moura e Luna Campolina;
+
 Atividade prática de Programação Orientada a Objetos  
 Instituição: Centro Universitário Afya São Lucas  
 Curso: Ciência da Computação
